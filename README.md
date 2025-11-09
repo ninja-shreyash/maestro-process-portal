@@ -2,7 +2,7 @@
 
 A modern web application for viewing and managing UiPath Maestro processes, their instances, BPMN diagrams, and execution history. Built with React, TypeScript, and Cloudflare Workers for enterprise-grade performance and reliability.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ninja-shreyash/maestro-process-portal)
 
 ## Features
 
@@ -158,7 +158,7 @@ Ensure your UiPath API token has the following permissions:
 
 ### Cloudflare Workers
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ninja-shreyash/maestro-process-portal)
 
 **Manual Deployment:**
 
